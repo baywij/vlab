@@ -1,0 +1,3 @@
+<?php
+  echo "This Beranda";
+?>
