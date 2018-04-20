@@ -7,7 +7,7 @@
 <link rel="shortcut icon" href="<?php echo base_url();?>assets/images/logo.png">
 <!-- Set the viewport width to device width for mobile -->
 <meta name="viewport" content="width=device-width"/>
-<title>Manajemen Keuangan 2 - E-learning Tes Git</title>
+<title>VIRTUAL LAB</title>
 <!-- CSS Files-->
 <!-- bootstrap & fontawesome -->
 <link rel="stylesheet" href="<?php echo base_url();?>assets/css/bootstrap.min.css" />
